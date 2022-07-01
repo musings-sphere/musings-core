@@ -1,0 +1,2 @@
+# musings-core
+Core application
